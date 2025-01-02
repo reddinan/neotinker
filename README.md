@@ -1,3 +1,6 @@
+# Neotinker
+## Acess php artisan tinker from neovim 
+
 A plugin to access Laravel's tinker feature from the command line.
 
 This was a for fun project to learn more about Neovim. It works for me but there is almost certainly a better way to do this. 
