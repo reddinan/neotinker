@@ -1,5 +1,5 @@
 # Neotinker
-## Acess php artisan tinker from neovim 
+## Access php artisan tinker from neovim 
 
 A plugin to access Laravel's tinker feature from the command line.
 
